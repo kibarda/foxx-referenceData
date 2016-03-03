@@ -1,0 +1,185 @@
+list,code,value
+LANGUAGE,aa,Afar
+LANGUAGE,ab,Abkhazian
+LANGUAGE,ae,Avestan
+LANGUAGE,af,Afrikaans
+LANGUAGE,ak,Akan
+LANGUAGE,am,Amharic
+LANGUAGE,an,Aragonese
+LANGUAGE,ar,Arabic
+LANGUAGE,as,Assamese
+LANGUAGE,av,Avaric
+LANGUAGE,ay,Aymara
+LANGUAGE,az,Azerbaijani
+LANGUAGE,ba,Bashkir
+LANGUAGE,be,Belarusian
+LANGUAGE,bg,Bulgarian
+LANGUAGE,bh,Bihari languages
+LANGUAGE,bi,Bislama
+LANGUAGE,bm,Bambara
+LANGUAGE,bn,Bengali
+LANGUAGE,bo,Tibetan
+LANGUAGE,br,Breton
+LANGUAGE,bs,Bosnian
+LANGUAGE,ca,Catalan; Valencian
+LANGUAGE,ce,Chechen
+LANGUAGE,ch,Chamorro
+LANGUAGE,co,Corsican
+LANGUAGE,cr,Cree
+LANGUAGE,cs,Czech
+LANGUAGE,cu,Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+LANGUAGE,cv,Chuvash
+LANGUAGE,cy,Welsh
+LANGUAGE,da,Danish
+LANGUAGE,de,German
+LANGUAGE,dv,Divehi; Dhivehi; Maldivian
+LANGUAGE,dz,Dzongkha
+LANGUAGE,ee,Ewe
+LANGUAGE,el,"Greek, Modern (1453-)"
+LANGUAGE,en,English
+LANGUAGE,eo,Esperanto
+LANGUAGE,es,Spanish; Castilian
+LANGUAGE,et,Estonian
+LANGUAGE,eu,Basque
+LANGUAGE,fa,Persian
+LANGUAGE,ff,Fulah
+LANGUAGE,fi,Finnish
+LANGUAGE,fj,Fijian
+LANGUAGE,fo,Faroese
+LANGUAGE,fr,French
+LANGUAGE,fy,Western Frisian
+LANGUAGE,ga,Irish
+LANGUAGE,gd,Gaelic; Scottish Gaelic
+LANGUAGE,gl,Galician
+LANGUAGE,gn,Guarani
+LANGUAGE,gu,Gujarati
+LANGUAGE,gv,Manx
+LANGUAGE,ha,Hausa
+LANGUAGE,he,Hebrew
+LANGUAGE,hi,Hindi
+LANGUAGE,ho,Hiri Motu
+LANGUAGE,hr,Croatian
+LANGUAGE,ht,Haitian; Haitian Creole
+LANGUAGE,hu,Hungarian
+LANGUAGE,hy,Armenian
+LANGUAGE,hz,Herero
+LANGUAGE,ia,Interlingua (International Auxiliary Language Association)
+LANGUAGE,id,Indonesian
+LANGUAGE,ie,Interlingue; Occidental
+LANGUAGE,ig,Igbo
+LANGUAGE,ii,Sichuan Yi; Nuosu
+LANGUAGE,ik,Inupiaq
+LANGUAGE,io,Ido
+LANGUAGE,is,Icelandic
+LANGUAGE,it,Italian
+LANGUAGE,iu,Inuktitut
+LANGUAGE,ja,Japanese
+LANGUAGE,jv,Javanese
+LANGUAGE,ka,Georgian
+LANGUAGE,kg,Kongo
+LANGUAGE,ki,Kikuyu; Gikuyu
+LANGUAGE,kj,Kuanyama; Kwanyama
+LANGUAGE,kk,Kazakh
+LANGUAGE,kl,Kalaallisut; Greenlandic
+LANGUAGE,km,Central Khmer
+LANGUAGE,kn,Kannada
+LANGUAGE,ko,Korean
+LANGUAGE,kr,Kanuri
+LANGUAGE,ks,Kashmiri
+LANGUAGE,ku,Kurdish
+LANGUAGE,kv,Komi
+LANGUAGE,kw,Cornish
+LANGUAGE,ky,Kirghiz; Kyrgyz
+LANGUAGE,la,Latin
+LANGUAGE,lb,Luxembourgish; Letzeburgesch
+LANGUAGE,lg,Ganda
+LANGUAGE,li,Limburgan; Limburger; Limburgish
+LANGUAGE,ln,Lingala
+LANGUAGE,lo,Lao
+LANGUAGE,lt,Lithuanian
+LANGUAGE,lu,Luba-Katanga
+LANGUAGE,lv,Latvian
+LANGUAGE,mg,Malagasy
+LANGUAGE,mh,Marshallese
+LANGUAGE,mi,Maori
+LANGUAGE,mk,Macedonian
+LANGUAGE,ml,Malayalam
+LANGUAGE,mn,Mongolian
+LANGUAGE,mr,Marathi
+LANGUAGE,ms,Malay
+LANGUAGE,mt,Maltese
+LANGUAGE,my,Burmese
+LANGUAGE,na,Nauru
+LANGUAGE,nb,"Bokmål, Norwegian; Norwegian Bokmål"
+LANGUAGE,nd,"Ndebele, North; North Ndebele"
+LANGUAGE,ne,Nepali
+LANGUAGE,ng,Ndonga
+LANGUAGE,nl,Dutch; Flemish
+LANGUAGE,nn,"Norwegian Nynorsk; Nynorsk, Norwegian"
+LANGUAGE,no,Norwegian
+LANGUAGE,nr,"Ndebele, South; South Ndebele"
+LANGUAGE,nv,Navajo; Navaho
+LANGUAGE,ny,Chichewa; Chewa; Nyanja
+LANGUAGE,oc,Occitan (post 1500); Provençal
+LANGUAGE,oj,Ojibwa
+LANGUAGE,om,Oromo
+LANGUAGE,or,Oriya
+LANGUAGE,os,Ossetian; Ossetic
+LANGUAGE,pa,Panjabi; Punjabi
+LANGUAGE,pi,Pali
+LANGUAGE,pl,Polish
+LANGUAGE,ps,Pushto; Pashto
+LANGUAGE,pt,Portuguese
+LANGUAGE,qu,Quechua
+LANGUAGE,rm,Romansh
+LANGUAGE,rn,Rundi
+LANGUAGE,ro,Romanian; Moldavian; Moldovan
+LANGUAGE,ru,Russian
+LANGUAGE,rw,Kinyarwanda
+LANGUAGE,sa,Sanskrit
+LANGUAGE,sc,Sardinian
+LANGUAGE,sd,Sindhi
+LANGUAGE,se,Northern Sami
+LANGUAGE,sg,Sango
+LANGUAGE,si,Sinhala; Sinhalese
+LANGUAGE,sk,Slovak
+LANGUAGE,sl,Slovenian
+LANGUAGE,sm,Samoan
+LANGUAGE,sn,Shona
+LANGUAGE,so,Somali
+LANGUAGE,sq,Albanian
+LANGUAGE,sr,Serbian
+LANGUAGE,ss,Swati
+LANGUAGE,st,"Sotho, Southern"
+LANGUAGE,su,Sundanese
+LANGUAGE,sv,Swedish
+LANGUAGE,sw,Swahili
+LANGUAGE,ta,Tamil
+LANGUAGE,te,Telugu
+LANGUAGE,tg,Tajik
+LANGUAGE,th,Thai
+LANGUAGE,ti,Tigrinya
+LANGUAGE,tk,Turkmen
+LANGUAGE,tl,Tagalog
+LANGUAGE,tn,Tswana
+LANGUAGE,to,Tonga (Tonga Islands)
+LANGUAGE,tr,Turkish
+LANGUAGE,ts,Tsonga
+LANGUAGE,tt,Tatar
+LANGUAGE,tw,Twi
+LANGUAGE,ty,Tahitian
+LANGUAGE,ug,Uighur; Uyghur
+LANGUAGE,uk,Ukrainian
+LANGUAGE,ur,Urdu
+LANGUAGE,uz,Uzbek
+LANGUAGE,ve,Venda
+LANGUAGE,vi,Vietnamese
+LANGUAGE,vo,Volapük
+LANGUAGE,wa,Walloon
+LANGUAGE,wo,Wolof
+LANGUAGE,xh,Xhosa
+LANGUAGE,yi,Yiddish
+LANGUAGE,yo,Yoruba
+LANGUAGE,za,Zhuang; Chuang
+LANGUAGE,zh,Chinese
+LANGUAGE,zu,Zulu

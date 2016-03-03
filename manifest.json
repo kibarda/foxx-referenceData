@@ -1,0 +1,17 @@
+{
+  "name": "referenceData",
+  "description": "reference Data list management. Use 'setup' to create collections, 'import' to create some data for languages, countries, currencies",
+  "author": "jm",
+  "version": "0.0.1",
+  "license": "Apache2",
+  "controllers": {
+    "/refList": "controllers/refList.js",
+    "/refData": "controllers/refData.js"
+  },
+  "scripts": {
+    "setup": "scripts/setup.js",
+    "teardown": "scripts/teardown.js",
+    "import":"scripts/importData.js"
+  },
+  "tests": "test/**/*.js"
+}

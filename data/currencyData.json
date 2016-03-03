@@ -1,0 +1,1787 @@
+[
+  {
+    "list": "CURRENCY",
+    "code": "AFN",
+    "value": "Afghani",
+    "category1": "AF",
+    "country": "AFGHANISTAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "AX",
+    "country": "ÅLAND ISLANDS"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ALL",
+    "value": "Lek",
+    "category1": "AL",
+    "country": "ALBANIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "DZD",
+    "value": "Algerian Dinar",
+    "category1": "DZ",
+    "country": "ALGERIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "AS",
+    "country": "AMERICAN SAMOA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "AD",
+    "country": "ANDORRA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AOA",
+    "value": "Kwanza",
+    "category1": "AO",
+    "country": "ANGOLA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XCD",
+    "value": "East Caribbean Dollar",
+    "category1": "AI",
+    "country": "ANGUILLA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XCD",
+    "value": "East Caribbean Dollar",
+    "category1": "AG",
+    "country": "ANTIGUA AND BARBUDA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ARS",
+    "value": "Argentine Peso",
+    "category1": "AR",
+    "country": "ARGENTINA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AMD",
+    "value": "Armenian Dram",
+    "category1": "AM",
+    "country": "ARMENIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AWG",
+    "value": "Aruban Florin",
+    "category1": "AW",
+    "country": "ARUBA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AUD",
+    "value": "Australian Dollar",
+    "category1": "AU",
+    "country": "AUSTRALIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "AT",
+    "country": "AUSTRIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AZN",
+    "value": "Azerbaijanian Manat",
+    "category1": "AZ",
+    "country": "AZERBAIJAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BSD",
+    "value": "Bahamian Dollar",
+    "category1": "BS",
+    "country": "BAHAMAS (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BHD",
+    "value": "Bahraini Dinar",
+    "category1": "BH",
+    "country": "BAHRAIN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BDT",
+    "value": "Taka",
+    "category1": "BD",
+    "country": "BANGLADESH"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BBD",
+    "value": "Barbados Dollar",
+    "category1": "BB",
+    "country": "BARBADOS"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BYR",
+    "value": "Belarusian Ruble",
+    "category1": "BY",
+    "country": "BELARUS"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "BE",
+    "country": "BELGIUM"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BZD",
+    "value": "Belize Dollar",
+    "category1": "BZ",
+    "country": "BELIZE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XOF",
+    "value": "CFA Franc BCEAO",
+    "category1": "BJ",
+    "country": "BENIN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BMD",
+    "value": "Bermudian Dollar",
+    "category1": "BM",
+    "country": "BERMUDA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "INR",
+    "value": "Indian Rupee",
+    "category1": "BT",
+    "country": "BHUTAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BTN",
+    "value": "Ngultrum",
+    "category1": "BT",
+    "country": "BHUTAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BOB",
+    "value": "Boliviano",
+    "category1": "BO",
+    "country": "BOLIVIA (PLURINATIONAL STATE OF)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BOV",
+    "value": "Mvdol",
+    "category1": "BO",
+    "country": "BOLIVIA (PLURINATIONAL STATE OF)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "BQ",
+    "country": "BONAIRE, SINT EUSTATIUS AND SABA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BAM",
+    "value": "Convertible Mark",
+    "category1": "BA",
+    "country": "BOSNIA AND HERZEGOVINA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BWP",
+    "value": "Pula",
+    "category1": "BW",
+    "country": "BOTSWANA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "NOK",
+    "value": "Norwegian Krone",
+    "category1": "BV",
+    "country": "BOUVET ISLAND"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BRL",
+    "value": "Brazilian Real",
+    "category1": "BR",
+    "country": "BRAZIL"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "IO",
+    "country": "BRITISH INDIAN OCEAN TERRITORY (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BND",
+    "value": "Brunei Dollar",
+    "category1": "BN",
+    "country": "BRUNEI DARUSSALAM"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BGN",
+    "value": "Bulgarian Lev",
+    "category1": "BG",
+    "country": "BULGARIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XOF",
+    "value": "CFA Franc BCEAO",
+    "category1": "BF",
+    "country": "BURKINA FASO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "BIF",
+    "value": "Burundi Franc",
+    "category1": "BI",
+    "country": "BURUNDI"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "CVE",
+    "value": "Cabo Verde Escudo",
+    "category1": "CV",
+    "country": "CABO VERDE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "KHR",
+    "value": "Riel",
+    "category1": "KH",
+    "country": "CAMBODIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XAF",
+    "value": "CFA Franc BEAC",
+    "category1": "CM",
+    "country": "CAMEROON"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "CAD",
+    "value": "Canadian Dollar",
+    "category1": "CA",
+    "country": "CANADA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "KYD",
+    "value": "Cayman Islands Dollar",
+    "category1": "KY",
+    "country": "CAYMAN ISLANDS (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XAF",
+    "value": "CFA Franc BEAC",
+    "category1": "CF",
+    "country": "CENTRAL AFRICAN REPUBLIC (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XAF",
+    "value": "CFA Franc BEAC",
+    "category1": "TD",
+    "country": "CHAD"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "CLP",
+    "value": "Chilean Peso",
+    "category1": "CL",
+    "country": "CHILE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "CNY",
+    "value": "Yuan Renminbi",
+    "category1": "CN",
+    "country": "CHINA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AUD",
+    "value": "Australian Dollar",
+    "category1": "CX",
+    "country": "CHRISTMAS ISLAND"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AUD",
+    "value": "Australian Dollar",
+    "category1": "CC",
+    "country": "COCOS (KEELING) ISLANDS (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "COP",
+    "value": "Colombian Peso",
+    "category1": "CO",
+    "country": "COLOMBIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "COU",
+    "value": "Unidad de Valor Real",
+    "category1": "CO",
+    "country": "COLOMBIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "KMF",
+    "value": "Comoro Franc",
+    "category1": "KM",
+    "country": "COMOROS (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "CDF",
+    "value": "Congolese Franc",
+    "category1": "CD",
+    "country": "CONGO (THE DEMOCRATIC REPUBLIC OF THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XAF",
+    "value": "CFA Franc BEAC",
+    "category1": "CG",
+    "country": "CONGO (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "NZD",
+    "value": "New Zealand Dollar",
+    "category1": "CK",
+    "country": "COOK ISLANDS (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "CRC",
+    "value": "Costa Rican Colon",
+    "category1": "CR",
+    "country": "COSTA RICA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XOF",
+    "value": "CFA Franc BCEAO",
+    "category1": "CI",
+    "country": "CÔTE D'IVOIRE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "HRK",
+    "value": "Kuna",
+    "category1": "HR",
+    "country": "CROATIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "CUP",
+    "value": "Cuban Peso",
+    "category1": "CU",
+    "country": "CUBA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "CUC",
+    "value": "Peso Convertible",
+    "category1": "CU",
+    "country": "CUBA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ANG",
+    "value": "Netherlands Antillean Guilder",
+    "category1": "CW",
+    "country": "CURAÇAO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "CY",
+    "country": "CYPRUS"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "CZK",
+    "value": "Czech Koruna",
+    "category1": "CZ",
+    "country": "CZECH REPUBLIC (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "DKK",
+    "value": "Danish Krone",
+    "category1": "DK",
+    "country": "DENMARK"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "DJF",
+    "value": "Djibouti Franc",
+    "category1": "DJ",
+    "country": "DJIBOUTI"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XCD",
+    "value": "East Caribbean Dollar",
+    "category1": "DM",
+    "country": "DOMINICA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "DOP",
+    "value": "Dominican Peso",
+    "category1": "DO",
+    "country": "DOMINICAN REPUBLIC (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "EC",
+    "country": "ECUADOR"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EGP",
+    "value": "Egyptian Pound",
+    "category1": "EG",
+    "country": "EGYPT"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SVC",
+    "value": "El Salvador Colon",
+    "category1": "SV",
+    "country": "EL SALVADOR"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "SV",
+    "country": "EL SALVADOR"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XAF",
+    "value": "CFA Franc BEAC",
+    "category1": "GQ",
+    "country": "EQUATORIAL GUINEA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ERN",
+    "value": "Nakfa",
+    "category1": "ER",
+    "country": "ERITREA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "EE",
+    "country": "ESTONIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ETB",
+    "value": "Ethiopian Birr",
+    "category1": "ET",
+    "country": "ETHIOPIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "FKP",
+    "value": "Falkland Islands Pound",
+    "category1": "FK",
+    "country": "FALKLAND ISLANDS (THE) [MALVINAS]"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "DKK",
+    "value": "Danish Krone",
+    "category1": "FO",
+    "country": "FAROE ISLANDS (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "FJD",
+    "value": "Fiji Dollar",
+    "category1": "FJ",
+    "country": "FIJI"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "FI",
+    "country": "FINLAND"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "FR",
+    "country": "FRANCE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "GF",
+    "country": "FRENCH GUIANA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XPF",
+    "value": "CFP Franc",
+    "category1": "PF",
+    "country": "FRENCH POLYNESIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "TF",
+    "country": "FRENCH SOUTHERN TERRITORIES (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XAF",
+    "value": "CFA Franc BEAC",
+    "category1": "GA",
+    "country": "GABON"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "GMD",
+    "value": "Dalasi",
+    "category1": "GM",
+    "country": "GAMBIA (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "GEL",
+    "value": "Lari",
+    "category1": "GE",
+    "country": "GEORGIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "DE",
+    "country": "GERMANY"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "GHS",
+    "value": "Ghana Cedi",
+    "category1": "GH",
+    "country": "GHANA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "GIP",
+    "value": "Gibraltar Pound",
+    "category1": "GI",
+    "country": "GIBRALTAR"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "GR",
+    "country": "GREECE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "DKK",
+    "value": "Danish Krone",
+    "category1": "GL",
+    "country": "GREENLAND"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XCD",
+    "value": "East Caribbean Dollar",
+    "category1": "GD",
+    "country": "GRENADA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "GP",
+    "country": "GUADELOUPE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "GU",
+    "country": "GUAM"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "GTQ",
+    "value": "Quetzal",
+    "category1": "GT",
+    "country": "GUATEMALA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "GBP",
+    "value": "Pound Sterling",
+    "category1": "GG",
+    "country": "GUERNSEY"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "GNF",
+    "value": "Guinea Franc",
+    "category1": "GN",
+    "country": "GUINEA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XOF",
+    "value": "CFA Franc BCEAO",
+    "category1": "GW",
+    "country": "GUINEA-BISSAU"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "GYD",
+    "value": "Guyana Dollar",
+    "category1": "GY",
+    "country": "GUYANA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "HTG",
+    "value": "Gourde",
+    "category1": "HT",
+    "country": "HAITI"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "HT",
+    "country": "HAITI"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AUD",
+    "value": "Australian Dollar",
+    "category1": "HM",
+    "country": "HEARD ISLAND AND McDONALD ISLANDS"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "VA",
+    "country": "HOLY SEE (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "HNL",
+    "value": "Lempira",
+    "category1": "HN",
+    "country": "HONDURAS"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "HKD",
+    "value": "Hong Kong Dollar",
+    "category1": "HK",
+    "country": "HONG KONG"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "HUF",
+    "value": "Forint",
+    "category1": "HU",
+    "country": "HUNGARY"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ISK",
+    "value": "Iceland Krona",
+    "category1": "IS",
+    "country": "ICELAND"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "INR",
+    "value": "Indian Rupee",
+    "category1": "IN",
+    "country": "INDIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "IDR",
+    "value": "Rupiah",
+    "category1": "ID",
+    "country": "INDONESIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "IRR",
+    "value": "Iranian Rial",
+    "category1": "IR",
+    "country": "IRAN (ISLAMIC REPUBLIC OF)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "IQD",
+    "value": "Iraqi Dinar",
+    "category1": "IQ",
+    "country": "IRAQ"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "IE",
+    "country": "IRELAND"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "GBP",
+    "value": "Pound Sterling",
+    "category1": "IM",
+    "country": "ISLE OF MAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ILS",
+    "value": "New Israeli Sheqel",
+    "category1": "IL",
+    "country": "ISRAEL"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "IT",
+    "country": "ITALY"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "JMD",
+    "value": "Jamaican Dollar",
+    "category1": "JM",
+    "country": "JAMAICA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "JPY",
+    "value": "Yen",
+    "category1": "JP",
+    "country": "JAPAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "GBP",
+    "value": "Pound Sterling",
+    "category1": "JE",
+    "country": "JERSEY"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "JOD",
+    "value": "Jordanian Dinar",
+    "category1": "JO",
+    "country": "JORDAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "KZT",
+    "value": "Tenge",
+    "category1": "KZ",
+    "country": "KAZAKHSTAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "KES",
+    "value": "Kenyan Shilling",
+    "category1": "KE",
+    "country": "KENYA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AUD",
+    "value": "Australian Dollar",
+    "category1": "KI",
+    "country": "KIRIBATI"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "KPW",
+    "value": "North Korean Won",
+    "category1": "KP",
+    "country": "KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "KRW",
+    "value": "Won",
+    "category1": "KR",
+    "country": "KOREA (THE REPUBLIC OF)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "KWD",
+    "value": "Kuwaiti Dinar",
+    "category1": "KW",
+    "country": "KUWAIT"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "KGS",
+    "value": "Som",
+    "category1": "KG",
+    "country": "KYRGYZSTAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "LAK",
+    "value": "Kip",
+    "category1": "LA",
+    "country": "LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "LV",
+    "country": "LATVIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "LBP",
+    "value": "Lebanese Pound",
+    "category1": "LB",
+    "country": "LEBANON"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "LSL",
+    "value": "Loti",
+    "category1": "LS",
+    "country": "LESOTHO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ZAR",
+    "value": "Rand",
+    "category1": "LS",
+    "country": "LESOTHO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "LRD",
+    "value": "Liberian Dollar",
+    "category1": "LR",
+    "country": "LIBERIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "LYD",
+    "value": "Libyan Dinar",
+    "category1": "LY",
+    "country": "LIBYA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "CHF",
+    "value": "Swiss Franc",
+    "category1": "LI",
+    "country": "LIECHTENSTEIN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "LT",
+    "country": "LITHUANIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "LU",
+    "country": "LUXEMBOURG"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MOP",
+    "value": "Pataca",
+    "category1": "MO",
+    "country": "MACAO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MKD",
+    "value": "Denar",
+    "category1": "MK",
+    "country": "MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MGA",
+    "value": "Malagasy Ariary",
+    "category1": "MG",
+    "country": "MADAGASCAR"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MWK",
+    "value": "Malawi Kwacha",
+    "category1": "MW",
+    "country": "MALAWI"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MYR",
+    "value": "Malaysian Ringgit",
+    "category1": "MY",
+    "country": "MALAYSIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MVR",
+    "value": "Rufiyaa",
+    "category1": "MV",
+    "country": "MALDIVES"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XOF",
+    "value": "CFA Franc BCEAO",
+    "category1": "ML",
+    "country": "MALI"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "MT",
+    "country": "MALTA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "MH",
+    "country": "MARSHALL ISLANDS (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "MQ",
+    "country": "MARTINIQUE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MRO",
+    "value": "Ouguiya",
+    "category1": "MR",
+    "country": "MAURITANIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MUR",
+    "value": "Mauritius Rupee",
+    "category1": "MU",
+    "country": "MAURITIUS"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "YT",
+    "country": "MAYOTTE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MXN",
+    "value": "Mexican Peso",
+    "category1": "MX",
+    "country": "MEXICO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "FM",
+    "country": "MICRONESIA (FEDERATED STATES OF)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MDL",
+    "value": "Moldovan Leu",
+    "category1": "MD",
+    "country": "MOLDOVA (THE REPUBLIC OF)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "MC",
+    "country": "MONACO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MNT",
+    "value": "Tugrik",
+    "category1": "MN",
+    "country": "MONGOLIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "ME",
+    "country": "MONTENEGRO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XCD",
+    "value": "East Caribbean Dollar",
+    "category1": "MS",
+    "country": "MONTSERRAT"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MAD",
+    "value": "Moroccan Dirham",
+    "category1": "MA",
+    "country": "MOROCCO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MZN",
+    "value": "Mozambique Metical",
+    "category1": "MZ",
+    "country": "MOZAMBIQUE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MMK",
+    "value": "Kyat",
+    "category1": "MM",
+    "country": "MYANMAR"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "NAD",
+    "value": "Namibia Dollar",
+    "category1": "NA",
+    "country": "NAMIBIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ZAR",
+    "value": "Rand",
+    "category1": "NA",
+    "country": "NAMIBIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AUD",
+    "value": "Australian Dollar",
+    "category1": "NR",
+    "country": "NAURU"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "NPR",
+    "value": "Nepalese Rupee",
+    "category1": "NP",
+    "country": "NEPAL"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "NL",
+    "country": "NETHERLANDS (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XPF",
+    "value": "CFP Franc",
+    "category1": "NC",
+    "country": "NEW CALEDONIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "NZD",
+    "value": "New Zealand Dollar",
+    "category1": "NZ",
+    "country": "NEW ZEALAND"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "NIO",
+    "value": "Cordoba Oro",
+    "category1": "NG",
+    "country": "NICARAGUA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XOF",
+    "value": "CFA Franc BCEAO",
+    "category1": "NE",
+    "country": "NIGER (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "NGN",
+    "value": "Naira",
+    "category1": "NG",
+    "country": "NIGERIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "NZD",
+    "value": "New Zealand Dollar",
+    "category1": "NU",
+    "country": "NIUE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AUD",
+    "value": "Australian Dollar",
+    "category1": "NF",
+    "country": "NORFOLK ISLAND"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "MP",
+    "country": "NORTHERN MARIANA ISLANDS (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "NOK",
+    "value": "Norwegian Krone",
+    "category1": "NO",
+    "country": "NORWAY"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "OMR",
+    "value": "Rial Omani",
+    "category1": "OM",
+    "country": "OMAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "PKR",
+    "value": "Pakistan Rupee",
+    "category1": "PK",
+    "country": "PAKISTAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "PW",
+    "country": "PALAU"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "PAB",
+    "value": "Balboa",
+    "category1": "PA",
+    "country": "PANAMA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "PA",
+    "country": "PANAMA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "PGK",
+    "value": "Kina",
+    "category1": "PG",
+    "country": "PAPUA NEW GUINEA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "PYG",
+    "value": "Guarani",
+    "category1": "PY",
+    "country": "PARAGUAY"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "PEN",
+    "value": "Sol",
+    "category1": "PE",
+    "country": "PERU"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "PHP",
+    "value": "Philippine Peso",
+    "category1": "PH",
+    "country": "PHILIPPINES (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "NZD",
+    "value": "New Zealand Dollar",
+    "category1": "PN",
+    "country": "PITCAIRN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "PLN",
+    "value": "Zloty",
+    "category1": "PL",
+    "country": "POLAND"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "PT",
+    "country": "PORTUGAL"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "PR",
+    "country": "PUERTO RICO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "QAR",
+    "value": "Qatari Rial",
+    "category1": "QA",
+    "country": "QATAR"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "RE",
+    "country": "RÉUNION"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "RON",
+    "value": "Romanian Leu",
+    "category1": "RO",
+    "country": "ROMANIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "RUB",
+    "value": "Russian Ruble",
+    "category1": "RU",
+    "country": "RUSSIAN FEDERATION (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "RWF",
+    "value": "Rwanda Franc",
+    "category1": "RW",
+    "country": "RWANDA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "BL",
+    "country": "SAINT BARTHÉLEMY"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SHP",
+    "value": "Saint Helena Pound",
+    "category1": "SH",
+    "country": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XCD",
+    "value": "East Caribbean Dollar",
+    "category1": "KN",
+    "country": "SAINT KITTS AND NEVIS"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XCD",
+    "value": "East Caribbean Dollar",
+    "category1": "LC",
+    "country": "SAINT LUCIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "MF",
+    "country": "SAINT MARTIN (FRENCH PART)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "PM",
+    "country": "SAINT PIERRE AND MIQUELON"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XCD",
+    "value": "East Caribbean Dollar",
+    "category1": "VC",
+    "country": "SAINT VINCENT AND THE GRENADINES"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "WST",
+    "value": "Tala",
+    "category1": "WS",
+    "country": "SAMOA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "SM",
+    "country": "SAN MARINO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "STD",
+    "value": "Dobra",
+    "category1": "ST",
+    "country": "SAO TOME AND PRINCIPE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SAR",
+    "value": "Saudi Riyal",
+    "category1": "SA",
+    "country": "SAUDI ARABIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XOF",
+    "value": "CFA Franc BCEAO",
+    "category1": "SN",
+    "country": "SENEGAL"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "RSD",
+    "value": "Serbian Dinar",
+    "category1": "RS",
+    "country": "SERBIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SCR",
+    "value": "Seychelles Rupee",
+    "category1": "SC",
+    "country": "SEYCHELLES"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SLL",
+    "value": "Leone",
+    "category1": "SL",
+    "country": "SIERRA LEONE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SGD",
+    "value": "Singapore Dollar",
+    "category1": "SG",
+    "country": "SINGAPORE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ANG",
+    "value": "Netherlands Antillean Guilder",
+    "category1": "SX",
+    "country": "SINT MAARTEN (DUTCH PART)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "SK",
+    "country": "SLOVAKIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "SI",
+    "country": "SLOVENIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SBD",
+    "value": "Solomon Islands Dollar",
+    "category1": "SB",
+    "country": "SOLOMON ISLANDS"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SOS",
+    "value": "Somali Shilling",
+    "category1": "SO",
+    "country": "SOMALIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ZAR",
+    "value": "Rand",
+    "category1": "ZA",
+    "country": "SOUTH AFRICA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SSP",
+    "value": "South Sudanese Pound",
+    "category1": "SS",
+    "country": "SOUTH SUDAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "EUR",
+    "value": "Euro",
+    "category1": "ES",
+    "country": "SPAIN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "LKR",
+    "value": "Sri Lanka Rupee",
+    "category1": "LK",
+    "country": "SRI LANKA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SDG",
+    "value": "Sudanese Pound",
+    "category1": "SD",
+    "country": "SUDAN (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SRD",
+    "value": "Surinam Dollar",
+    "category1": "SR",
+    "country": "SURINAME"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "NOK",
+    "value": "Norwegian Krone",
+    "category1": "SJ",
+    "country": "SVALBARD AND JAN MAYEN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SZL",
+    "value": "Lilangeni",
+    "category1": "SZ",
+    "country": "SWAZILAND"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SEK",
+    "value": "Swedish Krona",
+    "category1": "SE",
+    "country": "SWEDEN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "CHF",
+    "value": "Swiss Franc",
+    "category1": "CH",
+    "country": "SWITZERLAND"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "SYP",
+    "value": "Syrian Pound",
+    "category1": "SY",
+    "country": "SYRIAN ARAB REPUBLIC"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "TWD",
+    "value": "New Taiwan Dollar",
+    "category1": "TW",
+    "country": "TAIWAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "TJS",
+    "value": "Somoni",
+    "category1": "TJ",
+    "country": "TAJIKISTAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "TZS",
+    "value": "Tanzanian Shilling",
+    "category1": "TZ",
+    "country": "TANZANIA, UNITED REPUBLIC OF"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "THB",
+    "value": "Baht",
+    "category1": "TH",
+    "country": "THAILAND"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "TL",
+    "country": "TIMOR-LESTE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XOF",
+    "value": "CFA Franc BCEAO",
+    "category1": "TG",
+    "country": "TOGO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "NZD",
+    "value": "New Zealand Dollar",
+    "category1": "TK",
+    "country": "TOKELAU"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "TOP",
+    "value": "Pa’anga",
+    "category1": "TO",
+    "country": "TONGA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "TTD",
+    "value": "Trinidad and Tobago Dollar",
+    "category1": "TT",
+    "country": "TRINIDAD AND TOBAGO"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "TND",
+    "value": "Tunisian Dinar",
+    "category1": "TN",
+    "country": "TUNISIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "TRY",
+    "value": "Turkish Lira",
+    "category1": "TR",
+    "country": "TURKEY"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "TMT",
+    "value": "Turkmenistan New Manat",
+    "category1": "TM",
+    "country": "TURKMENISTAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "TC",
+    "country": "TURKS AND CAICOS ISLANDS (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AUD",
+    "value": "Australian Dollar",
+    "category1": "TV",
+    "country": "TUVALU"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "UGX",
+    "value": "Uganda Shilling",
+    "category1": "UG",
+    "country": "UGANDA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "UAH",
+    "value": "Hryvnia",
+    "category1": "UA",
+    "country": "UKRAINE"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "AED",
+    "value": "UAE Dirham",
+    "category1": "AE",
+    "country": "UNITED ARAB EMIRATES (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "GBP",
+    "value": "Pound Sterling",
+    "category1": "GB",
+    "country": "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "UM",
+    "country": "UNITED STATES MINOR OUTLYING ISLANDS (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "US",
+    "country": "UNITED STATES OF AMERICA (THE)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "UYU",
+    "value": "Peso Uruguayo",
+    "category1": "UY",
+    "country": "URUGUAY"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "UZS",
+    "value": "Uzbekistan Sum",
+    "category1": "UZ",
+    "country": "UZBEKISTAN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "VUV",
+    "value": "Vatu",
+    "category1": "VU",
+    "country": "VANUATU"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "VEF",
+    "value": "Bolívar",
+    "category1": "VE",
+    "country": "VENEZUELA (BOLIVARIAN REPUBLIC OF)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "VND",
+    "value": "Dong",
+    "category1": "VN",
+    "country": "VIET NAM"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "VG",
+    "country": "VIRGIN ISLANDS (BRITISH)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "USD",
+    "value": "US Dollar",
+    "category1": "VI",
+    "country": "VIRGIN ISLANDS (U.S.)"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "XPF",
+    "value": "CFP Franc",
+    "category1": "WF",
+    "country": "WALLIS AND FUTUNA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "MAD",
+    "value": "Moroccan Dirham",
+    "category1": "EH",
+    "country": "WESTERN SAHARA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "YER",
+    "value": "Yemeni Rial",
+    "category1": "YE",
+    "country": "YEMEN"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ZMW",
+    "value": "Zambian Kwacha",
+    "category1": "ZM",
+    "country": "ZAMBIA"
+  },
+  {
+    "list": "CURRENCY",
+    "code": "ZWL",
+    "value": "Zimbabwe Dollar",
+    "category1": "ZW",
+    "country": "ZIMBABWE"
+  }
+]

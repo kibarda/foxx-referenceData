@@ -1,0 +1,250 @@
+list,code,value
+COUNTRY,AF,Afghanistan
+COUNTRY,AX,Åland Islands
+COUNTRY,AL,Albania
+COUNTRY,DZ,Algeria
+COUNTRY,AS,American Samoa
+COUNTRY,AD,Andorra
+COUNTRY,AO,Angola
+COUNTRY,AI,Anguilla
+COUNTRY,AQ,Antarctica
+COUNTRY,AG,Antigua and Barbuda
+COUNTRY,AR,Argentina
+COUNTRY,AM,Armenia
+COUNTRY,AW,Aruba
+COUNTRY,AU,Australia
+COUNTRY,AT,Austria
+COUNTRY,AZ,Azerbaijan
+COUNTRY,BS,Bahamas
+COUNTRY,BH,Bahrain
+COUNTRY,BD,Bangladesh
+COUNTRY,BB,Barbados
+COUNTRY,BY,Belarus
+COUNTRY,BE,Belgium
+COUNTRY,BZ,Belize
+COUNTRY,BJ,Benin
+COUNTRY,BM,Bermuda
+COUNTRY,BT,Bhutan
+COUNTRY,BO,Bolivia (Plurinational State of)
+COUNTRY,BQ,"Bonaire, Sint Eustatius and Saba"
+COUNTRY,BA,Bosnia and Herzegovina
+COUNTRY,BW,Botswana
+COUNTRY,BV,Bouvet Island
+COUNTRY,BR,Brazil
+COUNTRY,IO,British Indian Ocean Territory
+COUNTRY,BN,Brunei Darussalam
+COUNTRY,BG,Bulgaria
+COUNTRY,BF,Burkina Faso
+COUNTRY,BI,Burundi
+COUNTRY,KH,Cambodia
+COUNTRY,CM,Cameroon
+COUNTRY,CA,Canada
+COUNTRY,CV,Cabo Verde
+COUNTRY,KY,Cayman Islands
+COUNTRY,CF,Central African Republic
+COUNTRY,TD,Chad
+COUNTRY,CL,Chile
+COUNTRY,CN,China
+COUNTRY,CX,Christmas Island
+COUNTRY,CC,Cocos (Keeling) Islands
+COUNTRY,CO,Colombia
+COUNTRY,KM,Comoros
+COUNTRY,CG,Congo
+COUNTRY,CD,Congo (Democratic Republic of the)
+COUNTRY,CK,Cook Islands
+COUNTRY,CR,Costa Rica
+COUNTRY,CI,Côte d'Ivoire
+COUNTRY,HR,Croatia
+COUNTRY,CU,Cuba
+COUNTRY,CW,Curaçao
+COUNTRY,CY,Cyprus
+COUNTRY,CZ,Czech Republic
+COUNTRY,DK,Denmark
+COUNTRY,DJ,Djibouti
+COUNTRY,DM,Dominica
+COUNTRY,DO,Dominican Republic
+COUNTRY,EC,Ecuador
+COUNTRY,EG,Egypt
+COUNTRY,SV,El Salvador
+COUNTRY,GQ,Equatorial Guinea
+COUNTRY,ER,Eritrea
+COUNTRY,EE,Estonia
+COUNTRY,ET,Ethiopia
+COUNTRY,FK,Falkland Islands (Malvinas)
+COUNTRY,FO,Faroe Islands
+COUNTRY,FJ,Fiji
+COUNTRY,FI,Finland
+COUNTRY,FR,France
+COUNTRY,GF,French Guiana
+COUNTRY,PF,French Polynesia
+COUNTRY,TF,French Southern Territories
+COUNTRY,GA,Gabon
+COUNTRY,GM,Gambia
+COUNTRY,GE,Georgia
+COUNTRY,DE,Germany
+COUNTRY,GH,Ghana
+COUNTRY,GI,Gibraltar
+COUNTRY,GR,Greece
+COUNTRY,GL,Greenland
+COUNTRY,GD,Grenada
+COUNTRY,GP,Guadeloupe
+COUNTRY,GU,Guam
+COUNTRY,GT,Guatemala
+COUNTRY,GG,Guernsey
+COUNTRY,GN,Guinea
+COUNTRY,GW,Guinea-Bissau
+COUNTRY,GY,Guyana
+COUNTRY,HT,Haiti
+COUNTRY,HM,Heard Island and McDonald Islands
+COUNTRY,VA,Holy See
+COUNTRY,HN,Honduras
+COUNTRY,HK,Hong Kong
+COUNTRY,HU,Hungary
+COUNTRY,IS,Iceland
+COUNTRY,IN,India
+COUNTRY,ID,Indonesia
+COUNTRY,IR,Iran (Islamic Republic of)
+COUNTRY,IQ,Iraq
+COUNTRY,IE,Ireland
+COUNTRY,IM,Isle of Man
+COUNTRY,IL,Israel
+COUNTRY,IT,Italy
+COUNTRY,JM,Jamaica
+COUNTRY,JP,Japan
+COUNTRY,JE,Jersey
+COUNTRY,JO,Jordan
+COUNTRY,KZ,Kazakhstan
+COUNTRY,KE,Kenya
+COUNTRY,KI,Kiribati
+COUNTRY,KP,Korea (Democratic People's Republic of)
+COUNTRY,KR,Korea (Republic of)
+COUNTRY,KW,Kuwait
+COUNTRY,KG,Kyrgyzstan
+COUNTRY,LA,Lao People's Democratic Republic
+COUNTRY,LV,Latvia
+COUNTRY,LB,Lebanon
+COUNTRY,LS,Lesotho
+COUNTRY,LR,Liberia
+COUNTRY,LY,Libya
+COUNTRY,LI,Liechtenstein
+COUNTRY,LT,Lithuania
+COUNTRY,LU,Luxembourg
+COUNTRY,MO,Macao
+COUNTRY,MK,Macedonia (the former Yugoslav Republic of)
+COUNTRY,MG,Madagascar
+COUNTRY,MW,Malawi
+COUNTRY,MY,Malaysia
+COUNTRY,MV,Maldives
+COUNTRY,ML,Mali
+COUNTRY,MT,Malta
+COUNTRY,MH,Marshall Islands
+COUNTRY,MQ,Martinique
+COUNTRY,MR,Mauritania
+COUNTRY,MU,Mauritius
+COUNTRY,YT,Mayotte
+COUNTRY,MX,Mexico
+COUNTRY,FM,Micronesia (Federated States of)
+COUNTRY,MD,Moldova (Republic of)
+COUNTRY,MC,Monaco
+COUNTRY,MN,Mongolia
+COUNTRY,ME,Montenegro
+COUNTRY,MS,Montserrat
+COUNTRY,MA,Morocco
+COUNTRY,MZ,Mozambique
+COUNTRY,MM,Myanmar
+COUNTRY,NA,Namibia
+COUNTRY,NR,Nauru
+COUNTRY,NP,Nepal
+COUNTRY,NL,Netherlands
+COUNTRY,NC,New Caledonia
+COUNTRY,NZ,New Zealand
+COUNTRY,NI,Nicaragua
+COUNTRY,NE,Niger
+COUNTRY,NG,Nigeria
+COUNTRY,NU,Niue
+COUNTRY,NF,Norfolk Island
+COUNTRY,MP,Northern Mariana Islands
+COUNTRY,NO,Norway
+COUNTRY,OM,Oman
+COUNTRY,PK,Pakistan
+COUNTRY,PW,Palau
+COUNTRY,PS,"Palestine, State of"
+COUNTRY,PA,Panama
+COUNTRY,PG,Papua New Guinea
+COUNTRY,PY,Paraguay
+COUNTRY,PE,Peru
+COUNTRY,PH,Philippines
+COUNTRY,PN,Pitcairn
+COUNTRY,PL,Poland
+COUNTRY,PT,Portugal
+COUNTRY,PR,Puerto Rico
+COUNTRY,QA,Qatar
+COUNTRY,RE,Réunion
+COUNTRY,RO,Romania
+COUNTRY,RU,Russian Federation
+COUNTRY,RW,Rwanda
+COUNTRY,BL,Saint Barthélemy
+COUNTRY,SH,"Saint Helena, Ascension and Tristan da Cunha"
+COUNTRY,KN,Saint Kitts and Nevis
+COUNTRY,LC,Saint Lucia
+COUNTRY,MF,Saint Martin (French part)
+COUNTRY,PM,Saint Pierre and Miquelon
+COUNTRY,VC,Saint Vincent and the Grenadines
+COUNTRY,WS,Samoa
+COUNTRY,SM,San Marino
+COUNTRY,ST,Sao Tome and Principe
+COUNTRY,SA,Saudi Arabia
+COUNTRY,SN,Senegal
+COUNTRY,RS,Serbia
+COUNTRY,SC,Seychelles
+COUNTRY,SL,Sierra Leone
+COUNTRY,SG,Singapore
+COUNTRY,SX,Sint Maarten (Dutch part)
+COUNTRY,SK,Slovakia
+COUNTRY,SI,Slovenia
+COUNTRY,SB,Solomon Islands
+COUNTRY,SO,Somalia
+COUNTRY,ZA,South Africa
+COUNTRY,GS,South Georgia and the South Sandwich Islands
+COUNTRY,SS,South Sudan
+COUNTRY,ES,Spain
+COUNTRY,LK,Sri Lanka
+COUNTRY,SD,Sudan
+COUNTRY,SR,Suriname
+COUNTRY,SJ,Svalbard and Jan Mayen
+COUNTRY,SZ,Swaziland
+COUNTRY,SE,Sweden
+COUNTRY,CH,Switzerland
+COUNTRY,SY,Syrian Arab Republic
+COUNTRY,TW,"Taiwan, Province of China"
+COUNTRY,TJ,Tajikistan
+COUNTRY,TZ,"Tanzania, United Republic of"
+COUNTRY,TH,Thailand
+COUNTRY,TL,Timor-Leste
+COUNTRY,TG,Togo
+COUNTRY,TK,Tokelau
+COUNTRY,TO,Tonga
+COUNTRY,TT,Trinidad and Tobago
+COUNTRY,TN,Tunisia
+COUNTRY,TR,Turkey
+COUNTRY,TM,Turkmenistan
+COUNTRY,TC,Turks and Caicos Islands
+COUNTRY,TV,Tuvalu
+COUNTRY,UG,Uganda
+COUNTRY,UA,Ukraine
+COUNTRY,AE,United Arab Emirates
+COUNTRY,GB,United Kingdom of Great Britain and Northern Ireland
+COUNTRY,US,United States of America
+COUNTRY,UM,United States Minor Outlying Islands
+COUNTRY,UY,Uruguay
+COUNTRY,UZ,Uzbekistan
+COUNTRY,VU,Vanuatu
+COUNTRY,VE,Venezuela (Bolivarian Republic of)
+COUNTRY,VN,Viet Nam
+COUNTRY,VG,Virgin Islands (British)
+COUNTRY,VI,Virgin Islands (U.S.)
+COUNTRY,WF,Wallis and Futuna
+COUNTRY,EH,Western Sahara
+COUNTRY,YE,Yemen
+COUNTRY,ZM,Zambia
+COUNTRY,ZW,Zimbabwe
